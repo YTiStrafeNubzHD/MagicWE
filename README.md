@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/YTiStrafeNubzHD/MagicWE.svg)](http://hits.dwyl.io/YTiStrafeNubzHD/MagicWE)
+
 # MAGICWE ICON CONTEST! Create and submit your best Poggit Icons for the top downloaded and most used famous PMMP World Edit plugin and win a prize!
 
 # Support and coding ended!
