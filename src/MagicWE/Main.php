@@ -402,7 +402,7 @@ class Main extends PluginBase implements Listener {
 		if (!isset($this->undo[$player->getName()])) return;
 		$undo = array_pop($this->undo[$player->getName()]);
 		foreach ($undo as $block) {
-			$level->setBlockIdAt($block->x, $block->y, $block->z, $block->getId());
+			$level->setBlockAt($x, $y, $z)->getId();
 			$level->setBlockDataAt($block->x, $block->y, $block->z, $block->getDamage());
 		}
 		$this->redo[$player->getName()][] = $undo;
